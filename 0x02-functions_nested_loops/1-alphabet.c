@@ -1,4 +1,4 @@
-#include "main.h"
+#include <main.h>
 /**
 * print_alphabet - funtion that prints alphabets in lowercase
 * Retun: 0
